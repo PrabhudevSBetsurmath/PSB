@@ -36,7 +36,7 @@ p{
   line-height: 2;
 }
 a{
-  color: ##212121;
+  color: #212121;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
@@ -94,7 +94,7 @@ top: 50px;
 
 }
 .middle-container{
-  background-color: #e8e8e8
+  background-color: #e8e8e8;
   margin: 70px 0 30px 0;
   padding: 25px 0 0 0;
 }
